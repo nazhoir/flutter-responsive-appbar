@@ -1,6 +1,6 @@
-# daily_code_1_responsive_appbar
+# Dailycode01 Responsive Appbar
 
-A new Flutter project.
+
 
 ## Getting Started
 
